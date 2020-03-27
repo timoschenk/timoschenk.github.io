@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Welcome to my page! I like dogs.

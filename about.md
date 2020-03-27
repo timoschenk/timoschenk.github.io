@@ -12,3 +12,4 @@ My research interests lie in causal inference, microeconometric theory, and trea
 I did my Bachelor in Economics at the University of Mannheim. During that time I spent a semester abroad at the University of Warwick. Seeking hands-on insight into research, I spent a year as Junior Research Manager at the [Center for Evaluation and Development](https://c4ed.org/). Working together with researchers convinced me to take the next step towards a career in academia.
 
 Outside my academic life I am a fanatic volleyball player, trainer and referee at [SVU Volleybal](https://www.svuvolleybal.nl/).
+![Thats me eating Handkaes](/assets/Nett.jpg)

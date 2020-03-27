@@ -6,5 +6,4 @@ categories: jekyll update
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script>
-I want to discuss the mathematics behind the funny game *dubbel*.
-$$a^2 +b^2 = c^2$$
+I want to discuss the mathematics behind the funny game *dubbel* $$a^2 +b^2 = c^2$$ hallo

@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my page
+Welcome to my page! I like dogs.

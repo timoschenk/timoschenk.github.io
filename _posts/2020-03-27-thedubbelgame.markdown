@@ -2,7 +2,7 @@
 layout: post
 title:  "Combinatorics behind the Dobbel game"
 date:   2020-03-27 10:25:10 +0100
-categories: jekyll update
+category: blog
 ---
 
 Dobbel is a challenging card game that requires quick reactions. There are 8 symbols on every of the 55 cards, but any pair of cards has exactly one symbol in commom -- you have to identify it as quickly as possible. Here is an example pair of cards:

@@ -2,17 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+invisible: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! I am a second-year MPhil student at the [Tinbergen Institute](https://www.tinbergen.nl/home)
+<img style="float: right; width: 30%" src="/assets/pics/Nett.jpg">
+and about to start my PhD in econometrics at the University of Amsterdam.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interests lie in causal inference, microeconometric theory, and treatment evaluation. For my MPhil thesis I am currently looking at ways to identify and estimate the effect of an endogenous treatment in panels.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I did my Bachelor in Economics at the University of Mannheim. During that time I spent a semester abroad at the University of Warwick. Seeking hands-on insight into research, I spent a year as Junior Research Manager at the [Center for Evaluation and Development](https://c4ed.org/). Working together with researchers convinced me to take the next step towards a career in academia.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Outside my academic life I am a enthusiastic volleyball player, trainer and referee at [SVU Volleybal](https://www.svuvolleybal.nl/).

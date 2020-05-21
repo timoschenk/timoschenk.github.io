@@ -21,11 +21,8 @@
 title_html: Timo Schenk
 email: t.d.schenk@tinbergen.nl
 curriculum:
-  - name: Link 1
-    url: /assets/docs/cv.pdf
-nav_ext_links:
-  - name: Link 1
-    url: http://jupiterbroadcasting.com/
+  name: CV 
+  url: /assets/docs/cv.pdf
 description: >- # this means to ignore newlines until "baseurl:"
   MPhil/PhD student in Economics and Econometrics | Website and Blog
 baseurl: "" # the subpath of your site, e.g. /blog

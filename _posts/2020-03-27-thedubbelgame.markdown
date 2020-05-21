@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Combinatorics behind the Dobbel game"
-date:   2020-03-27 10:25:10 +0100
+title: Combinatorics behind the Dobbel game
+summary: "Dobbel is a challenging card game that requires quick reactions"
+modified: 2020-03-27 20:41:38
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
 category: blog
 ---
 

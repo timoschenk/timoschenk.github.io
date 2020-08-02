@@ -4,7 +4,6 @@
 
 layout: about
 ---
-# Timo Schenk
 **MPhil student, Tinbergen Institute**
 
 Hi there! I am a second-year MPhil student at the [Tinbergen Institute](https://www.tinbergen.nl/person/1162/timo-daniel-schenk)

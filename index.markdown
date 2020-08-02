@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: about
-title: Timo Schenk
 ---
+## Timo Schenk
 **MPhil student, Tinbergen Institute**
 
 Hi there! I am a second-year MPhil student at the [Tinbergen Institute](https://www.tinbergen.nl/person/1162/timo-daniel-schenk)

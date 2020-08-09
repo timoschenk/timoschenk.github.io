@@ -7,7 +7,7 @@ title: Timo Schenk
 invisible: true
 ---
 
-**MPhil student, Tinbergen Institute**
+**MPhil Student, Tinbergen Institute**
 
 Hi there! I am a second-year MPhil student at the [Tinbergen Institute](https://www.tinbergen.nl/person/1162/timo-daniel-schenk)
 and about to start my PhD in econometrics at the University of Amsterdam.

@@ -6,10 +6,9 @@ layout: about
 title: Timo Schenk
 invisible: true
 ---
-## Timo Schenk
 **PhD Student, University of Amsterdam**
 
-Hi there! I am a PhD student in econometrics at the University of Amsterdam.
+Hi there! I am a PhD student in econometrics at the [University of Amsterdam](https://uva.nl/profile/t.d.schenk).
 
 I am particularly interested in causal inference, microeconometric theory, and treatment evaluation. 
 

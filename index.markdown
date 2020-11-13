@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: about
-title: About
+title: Timo Schenk
+invisible: true
 ---
 ## Timo Schenk
 **PhD Student, University of Amsterdam**
@@ -17,5 +18,5 @@ During that time I spent a semester abroad at the University of Warwick.
 Seeking hands-on insight into research, I spent a year as Junior Research Manager at the [Center for Evaluation and Development](https://c4ed.org/). 
 <!-- Working together with researchers convinced me to take the next step towards a career in academia. -->
 
-Outside my academic life I am an enthusiastic volleyball player, trainer and referee at [SVU Volleybal](https://www.svuvolleybal.nl/).
+Outside my academic life I am an enthusiastic volleyball player, trainer and referee.
     

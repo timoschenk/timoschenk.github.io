@@ -7,10 +7,10 @@ layout: default
 
 # Personal Website
 
-- **2020 -- now** PhD Candidate, Amsterdam School of Economics
+- **2020 -- now**: PhD Student, Amsterdam School of Economics
     Supervisors: Prof. Dr. Frank Kleibergen, Dr. Andreas Pick  
-- **2018 -- 2020** MPhil Economics and Econometrics, Tinbergen Institute *(cum laude)*
-- **2014 -- 2017** BSc Economics, University of Mannheim *(distinction)*
+- **2018 -- 2020**: MPhil Economics and Econometrics, Tinbergen Institute *(cum laude)*
+- **2014 -- 2017**: BSc Economics, University of Mannheim *(distinction)*
 
 ## Research
 

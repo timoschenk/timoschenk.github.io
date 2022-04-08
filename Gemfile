@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # update nokogiri
 gem "nokogiri", ">= 1.13.2"
+
+# update commonmarker
+gem "commonmarker", ">= 0.23.4"

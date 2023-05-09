@@ -13,11 +13,15 @@ layout: default
 - 2017 -- 2018: Junior Research Manager, [**Center for Evaluation and Development**](https://c4ed.org/) (Mannheim, Germany)
 - 2014 -- 2017: BSc Economics, **University of Mannheim** *(distinction)*
 
+---
+
 ## News
 
-- Upcoming conference talks: IAAE (Oslo, June 27 -30), IPDC (Amsterdam, July 3-4)
+- Upcoming conference talks: [NESG](http://www.nesg.nl/) (Rotterdam, June 2), IAAE (Oslo, June 27 -30), [IPDC](https://ipdc2023.org/) (Amsterdam, July 3-4)
 - I am visiting **Brown University** during the spring semester 2023, hosted by [Toru Kitakawa](https://sites.google.com/brown.edu/torukitagawa).
   
+---
+
 ## Research
 
 *Interests:* Causal inference, microeconometrics, panel data, policy evaluation
@@ -31,10 +35,11 @@ I propose a time-weighted difference-in-differences (TWDID) estimation approach 
 
 ### Work in Progress
 
-- Identification and Estimation of Indirect Effects with Difference-in-Differences
+- What's the Mechanism? Mediation Analysis in Difference-in-Differences Designs
 
 - Policy Evaluation with Trending Data (with A. Pick)
-
+  
+---
 ## Recent talks
 
 - **November 7, 2022** International Econometrics PhD Conference (Rotterdam)

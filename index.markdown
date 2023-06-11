@@ -8,7 +8,8 @@ layout: default
 # Personal Website
 
 - 2020 -- now: PhD Candidate, **Amsterdam School of Economics**
-    Advisors:  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleibergen/f.r.kleibergen.html),  [Andreas Pick](http://apick.eu/)  
+    Advisors:  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleibergen/f.r.kleibergen.html),  [Andreas Pick](http://apick.eu/)
+- Spring 2023: Visiting Research Fellow, **Brown University**, invited by [Toru Kitakawa](https://sites.google.com/brown.edu/torukitagawa)
 - 2018 -- 2020: MPhil Economics and Econometrics, **Tinbergen Institute** *(cum laude)*
 - 2017 -- 2018: Junior Research Manager, [**Center for Evaluation and Development**](https://c4ed.org/) (Mannheim, Germany)
 - 2014 -- 2017: BSc Economics, **University of Mannheim** *(distinction)*
@@ -17,14 +18,16 @@ layout: default
 
 ## News
 
-- Upcoming conference talks: [NESG](http://www.nesg.nl/) (Rotterdam, June 2), IAAE (Oslo, June 27 -30), [IPDC](https://ipdc2023.org/) (Amsterdam, July 3-4)
-- I am visiting **Brown University** during the spring semester 2023, hosted by [Toru Kitakawa](https://sites.google.com/brown.edu/torukitagawa).
+- Upcoming conference talks: [IAAE](https://www.bi.edu/about-bi/events/2023/june/iaae2023/) (Oslo, June 27 -30),  [IPDC](https://ipdc2023.org/) (Amsterdam, July 3-4), [Bristol ESG](https://www.econometricstudygroup.org/index.html) (July 13-15)
   
 ---
 
 ## Research
 
-*Interests:* Causal inference, microeconometrics, panel data, policy evaluation
+*Field (primary):* Econometrics
+
+
+*Field (secondary):* Causal inference, Microeconometrics, Panel data, Policy evaluation
 
 ### Working Papers
 
@@ -40,8 +43,10 @@ I propose a time-weighted difference-in-differences (TWDID) estimation approach 
 - Policy Evaluation with Trending Data (with A. Pick)
   
 ---
+
 ## Recent talks
 
+- **June 2, 2023** Netherlands Econometric Study Group (Rotterdam)
 - **November 7, 2022** International Econometrics PhD Conference (Rotterdam)
 - **September 16-17, 2022** Workshop on Specification and Misspecification Analysis in
 Cross-section and Panel Data (Amsterdam, Netherlands)

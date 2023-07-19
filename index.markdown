@@ -19,7 +19,6 @@ layout: default
 ## News
 
 - I received the **honorable mention** at the IAAE 2023 for my (prospective) job market paper about mediation analysis in difference-in-differences designs
-- Upcoming conference talks: [Bristol ESG](https://www.econometricstudygroup.org/index.html) (July 13-15)
   
 ---
 
@@ -52,6 +51,7 @@ I propose a time-weighted difference-in-differences (TWDID) estimation approach 
 
 Paper presented: JMP
 
+- **July 14, 2023** Bristol ESG Conference
 - **July 3, 2023** International Panel Data Conference (Amsterdam)
 - **June 28, 2023** IAAE Annual Conference (Oslo)
 - **June 2, 2023** Netherlands Econometric Study Group (Rotterdam)
@@ -65,4 +65,4 @@ Paper presented: WP1
 - **August 22-26, 2022**  Econometric Society European Meeting (Milan, Italy)
 - **June 22, 2022** Annual Conference of the Internal Association of Applied Econometrics (London, UK)
 - **June 18, 2022** International Panel Data Conference (Bertinoro, Italy)
-- **April 21-23, 2022** Italian Association of Environmental ans Resource Economists Annual Conference (Cagliari, Italy)
+- **April 21-23, 2022** Italian Association of Environmental and Resource Economists Annual Conference (Cagliari, Italy)

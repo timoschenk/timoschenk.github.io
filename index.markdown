@@ -7,18 +7,26 @@ layout: default
 
 # Personal Website
 
-- 2020 -- now: PhD Candidate, **Amsterdam School of Economics**
+Welcome! I am a PhD candidate at the **Amsterdam School of Economics** and the **Tinbergen Institute**. I will be available on the 2023/24 academic job market.
+
+I work on econometric challenges in the field of causal inference with panel data. My papers have applications in environmental economics, economic history and public health.
+
+My advisors are  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Andreas Pick](http://apick.eu/).
+Last spring I was a Visiting Research Fellow at **Brown University**, invited by [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa).
+Before my graduate studies I was a Junior Research Manager at the [**Center for Evaluation and Development**](https://c4ed.org/) and I obtained my bachelors degree at the **University of Mannheim**.
+
+<!-- - 2020 -- now: PhD Candidate, **Amsterdam School of Economics**
     Advisors:  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleibergen/f.r.kleibergen.html),  [Andreas Pick](http://apick.eu/)
 - Spring 2023: Visiting Research Fellow, **Brown University**, invited by [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa)
 - 2018 -- 2020: MPhil Economics, **Tinbergen Institute** *(cum laude)*
 - 2017 -- 2018: Junior Research Manager, [**Center for Evaluation and Development**](https://c4ed.org/)
-- 2014 -- 2017: BSc Economics, **University of Mannheim** *(distinction)*
+- 2014 -- 2017: BSc Economics, **University of Mannheim** *(distinction)* -->
 
 ---
 
 ## News
 
-- I received the **honorable mention** at the IAAE 2023 for my (prospective) job market paper about mediation analysis in difference-in-differences designs
+- I received the **honorable mention** at the IAAE 2023 for my (prospective) job market paper about mediation analysis in difference-in-differences designs.
   
 ---
 

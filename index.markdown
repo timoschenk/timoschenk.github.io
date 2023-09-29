@@ -35,7 +35,7 @@ Before my graduate studies I was a Junior Research Manager at the [**Center for 
 *Field (primary):* Econometrics
 
 
-*Field (secondary):* Causal inference, Microeconometrics, Panel data, Policy evaluation
+*Field (secondary):* Causal inference, Applied microeconometrics
 
 ### Working Papers
 

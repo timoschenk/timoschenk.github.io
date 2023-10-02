@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Draft available soon :)
+Draft available soon.

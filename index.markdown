@@ -17,7 +17,6 @@ My advisors are  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleiberge
 Last spring I was a Visiting Research Fellow at Brown University, invited by [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa).
 Before my graduate studies I was a Junior Research Manager at the [Center for Evaluation and Development](https://c4ed.org/) and I obtained my bachelors degree at the University of Mannheim.
 
-
 ---
 
 ## Placement information
@@ -65,26 +64,22 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 
 *Field (primary):* Econometrics
 
-
 *Field (secondary):* Causal inference, Applied microeconometrics
-
-### Job Market Paper
-
-[Mediation Analysis in Difference-in-Differences Designs](comingsoon.md) *(honorable mention at the IAAE 2023)*
-
-*Draft & Abstract available soon*
-
 
 ### Working papers
 
-1. [WP1] [Time-Weighted Difference-in-Differences: Accounting for Common Factors in Short T Panels](https://papers.tinbergen.nl/23004.pdf) *(R&R Journal of Business & Economic Statistics)*
+1. [Mediation Analysis in Difference-in-Differences Designs](comingsoon.md) [**<ins>Job Market Paper</ins>**] *(honorable mention at the IAAE 2023)*
+
+    *Draft & Abstract available soon*
+
+2. [Time-Weighted Difference-in-Differences: Accounting for Common Factors in Short T Panels](https://papers.tinbergen.nl/23004.pdf) [WP2] *(R&R Journal of Business & Economic Statistics)*
 
      *Abstract:*
 I propose a time-weighted difference-in-differences (TWDID) estimation approach that is robust against time-varying common factors in short T panels. Time weighting substantially reduces both bias and variance compared to an unweighted DID estimator through balancing the pre-treatment and post-treatment factors. To conduct valid inference on the average treatment effect, I develop a correction term that adjusts conventional standard errors for the presence of weight estimation uncertainty. Revisiting a study on the effect of a cap-and-trade program on NOx emissions, TWDID estimation reduces the standard errors of the estimated treatment effect by 10% compared to a conventional DID approach.
 
 ### Work in progress
 
-- Policy Evaluation with Trending Data (*with A. Pick*)
+- Policy Evaluation with Trending Data (*with Andreas Pick*)
   
 ---
 
@@ -101,7 +96,7 @@ Paper presented: JMP
 
 ### Previous year (2022)
 
-Paper presented: WP1
+Paper presented: WP2
 
 - **November 7, 2022** International Econometrics PhD Conference (Rotterdam)
 - **September 16-17, 2022** Workshop on Specification and Misspecification Analysis in Cross-section and Panel Data (Amsterdam, Netherlands)

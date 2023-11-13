@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-image: /assets/pics/Timo_Tinbergen_2023.jpg
+image: https://timoschenk.eu/assets/pics/Timo_Tinbergen_2023.jpg
+title: Timo Schenk
 ---
 
 # Personal Website

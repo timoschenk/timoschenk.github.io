@@ -33,3 +33,6 @@ gem "nokogiri", ">= 1.13.5"
 
 # update commonmarker
 gem "commonmarker", ">= 0.23.4"
+
+# Jekyll SEO Tag
+gem 'jekyll-seo-tag'

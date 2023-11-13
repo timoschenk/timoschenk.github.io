@@ -11,7 +11,7 @@ image: /assets/pics/Timo_Tinbergen_2023.jpg
 Welcome! I am a PhD candidate at the University of Amsterdam and the Tinbergen Institute. I will be available on the 2023/24 academic job market.
 
 My research advances the econometric methods in the field of causal inference with panel data.
-In my [job market paper](https://drive.google.com/file/d/130-EkbrX10qEfPcEJa-mZc1i5pk4P94o/view?usp=drive_link){:target="_blank"}, I develop two approaches to identify the mechanisms behind treatment effects in difference-in-differences designs.
+In my [job market paper](https://drive.google.com/file/d/130-EkbrX10qEfPcEJa-mZc1i5pk4P94o/view?usp=drive_link){:target="_blank"}, I develop strategies to identify the mechanisms behind treatment effects in difference-in-differences designs.
 My current papers have applications in environmental economics, economic history and public health.
 
 My advisors are  [Frank Kleibergen](https://ase.uva.nl/profile/k/l/f.r.kleibergen/f.r.kleibergen.html){:target="_blank"} and [Andreas Pick](http://apick.eu/){:target="_blank"}.
@@ -72,14 +72,12 @@ Before my graduate studies I was a Junior Research Manager at the [Center for Ev
 1. [Mediation Analysis in Difference-in-Differences Designs](https://drive.google.com/file/d/130-EkbrX10qEfPcEJa-mZc1i5pk4P94o/view?usp=drive_link){:target="_blank"} [**<ins>Job Market Paper</ins>**] *(honorable mention at the IAAE 2023)*
 
    *Abstract:*
-    This paper studies identification of indirect effects in difference-in-differences
-    (DiD) designs, which allows researchers to quantify the importance of a
-    mechanism behind the average treatment effect. Building on concepts from
-    mediation analysis, I presents two identification strategies that are straightforward to implement in practice. The sequential DiD approach requires additional parallel trend assumptions, restrictions on the mediator effect
-    heterogeneity and monotonicity of the treatment effects on the mediator.
-    Secondly, I present a two-sample approach, which includes results from other
-    studies. I present inference procedures on the ratio of indirect and total effect that remain reliable when the effects are weak. I revisit two empirical
-    studies to show how both approaches can be implemented in practice.
+    This paper develops strategies to understand the mechanisms behind treatment effects in difference-in-differences (DiD) designs. 
+    Building on concepts from mediation analysis, I present identification strategies for the part of the average treatment effect that is caused by the treatment affecting a mediating variable. 
+    The sequential DiD approach requires additional parallel trend assumptions, a restriction on the mediator effect heterogeneity, and monotonicity of the treatment effect on the mediator. 
+    To avoid some of these restrictions, I present a two-sample approach, which includes results from other studies. 
+    I propose robust inference procedures on the proportion of the total effect a particular channel can explain. 
+    I revisit two empirical studies to show how researchers can use these approaches in practice.
 
 
 1. [Time-Weighted Difference-in-Differences: Accounting for Common Factors in Short T Panels](https://papers.tinbergen.nl/23004.pdf){:target="_blank"} [WP2] *(R&R Journal of Business & Economic Statistics)*

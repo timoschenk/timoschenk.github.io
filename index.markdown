@@ -45,45 +45,21 @@ My current papers have applications in environmental economics, economic history
        </small>
     </details>
 
-
 ### Work in progress
 
 - Policy Evaluation with Trending Data (*with Andreas Pick*)
   
 ---
 
-## Teaching
+## Scheduled Talks
 
-
-|               |                                             |
-|---------------|-----------------------------------------------------------------------------------|
-| Undergraduate  | *U Amsterdam*: Econometrics<sup>t,c</sup>, Mathematical and Empirical Finance<sup>t</sup>, Empirical Project<sup>t,c</sup>, Thesis supervision <br /> *U Mannheim*: Microeconomics A<sup>t,r</sup>, Statistics 1<sup>t,c</sup>, Mathematics for Economists<sup>t,r</sup>   |
-| Graduate| *U Amsterdam*: Advanced Econometrics 1<sup>c</sup>, Financial Econometrics<sup>c</sup> <br /> *Tinbergen Institute:* Measure Theory and Asymptotic Statistics<sup>t</sup>, Microeconomics 3: Information and Contract Theory<sup>t</sup>  |
-| Other     | Causal inference (TA for an online class by Scott Cunningham); Introduction to STATA (Crash course for C4ED employees)  |
-
-
-<small><sup>t</sup> theory tutorial (around 30 students), <sup>c</sup> computer lab (30), <sup>r</sup> revision lecture (80)</small>
-
+-  University of Southern Denmark (Sep. 2024)
+  
 ---
 
-## Talks
+## Teaching
 
-### Current year (2023)
+Current year:
 
-Paper presented: JMP
-
-- **July 14, 2023** Bristol ESG Conference
-- **July 3, 2023** International Panel Data Conference (Amsterdam)
-- **June 28, 2023** IAAE Annual Conference (Oslo)
-- **June 2, 2023** Netherlands Econometric Study Group (Rotterdam)
-
-### Previous year (2022)
-
-Paper presented: WP2
-
-- **November 7, 2022** International Econometrics PhD Conference (Rotterdam)
-- **September 16-17, 2022** Workshop on Specification and Misspecification Analysis in Cross-section and Panel Data (Amsterdam, Netherlands)
-- **August 22-26, 2022**  Econometric Society European Meeting (Milan, Italy)
-- **June 22, 2022** Annual Conference of the Internal Association of Applied Econometrics (London, UK)
-- **June 18, 2022** International Panel Data Conference (Bertinoro, Italy)
-- **April 21-23, 2022** Italian Association of Environmental and Resource Economists Annual Conference (Cagliari, Italy)
+- Econometrics 2 (BSc Econometrics) [[Sign up for office hours]](https://outlook.office.com/bookwithme/user/b80134fba7e44c4d9bbd8068acedc345@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?bookingcode=8af91556-4f74-4fb7-9efe-f9b2fd390695&anonymous&ep=mcard)
+- Thesis supervision (BSc Econometrics)

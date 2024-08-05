@@ -9,9 +9,7 @@ title: Timo Schenk
 
 # Personal Website
 
-Welcome! I am a PhD candidate at the University of Amsterdam and the Tinbergen Institute.
-
-This summer I will join Aarhus University as a Postdoctoral Scholar. In January 2025 I will start as Assistant Professor (tenure track) at Erasmus University Rotterdam.
+Welcome! I am a Postdoc at the Department of Economics and Business Economics at Aarhus University.  In January 2025 I will join Erasmus University Rotterdam as Assistant Professor (tenure track). I obtained my PhD at the University of Amsterdam and the Tinbergen Institute.
 
 My research advances the econometric methods in the field of causal inference with panel data.
 My current papers have applications in environmental economics, economic history and public health.
@@ -53,13 +51,7 @@ My current papers have applications in environmental economics, economic history
 
 ## Scheduled Talks
 
--  University of Southern Denmark (Sep. 2024)
+-  Groningen Workshop on Causal Inference + Machine Learning (Sep 2024)
+-  University of Southern Denmark (Sep 2024)
+-  Microeconometrics Class of 2024 Conference (Sep 2024)
   
----
-
-## Teaching
-
-Current year:
-
-- Econometrics 2 (BSc Econometrics) [[Sign up for office hours]](https://outlook.office.com/bookwithme/user/b80134fba7e44c4d9bbd8068acedc345@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?bookingcode=8af91556-4f74-4fb7-9efe-f9b2fd390695&anonymous&ep=mcard)
-- Thesis supervision (BSc Econometrics)

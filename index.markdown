@@ -45,11 +45,13 @@ My current papers have applications in environmental economics, economic history
 
 ### Work in progress
 
-- Policy Evaluation with Trending Data (*with Andreas Pick*)
+- Inference in Event Studies with Approximately Parallel Trends (*with N. Harmon and M. Sølvsten*)
+- Policy Evaluation with Trending Data (*with A. Pick*)
   
 ---
 
 ## Scheduled Talks
 
+-  Encounters in Econometric Theory (May 2025)
 -  University of Fribourg (May 2025)
-  
+-  Econometric Society World Congress (August 2025)

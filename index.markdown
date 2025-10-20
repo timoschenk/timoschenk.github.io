@@ -22,7 +22,7 @@ My current papers have applications in environmental economics, economic history
 
 ### Working papers
 
-1. [Mediation Analysis in Difference-in-Differences Designs](https://drive.google.com/file/d/130-EkbrX10qEfPcEJa-mZc1i5pk4P94o/view?usp=drive_link){:target="_blank"} [**<ins>Job Market Paper</ins>**] *(honorable mention at the IAAE 2023)*
+1. [Mediation Analysis in Difference-in-Differences Designs](https://drive.google.com/file/d/130-EkbrX10qEfPcEJa-mZc1i5pk4P94o/view?usp=drive_link){:target="_blank"}  *(honorable mention at the IAAE 2023)*
     <details>
 	    <summary>Abstract  </summary>  
         <small>
@@ -35,11 +35,12 @@ My current papers have applications in environmental economics, economic history
         </small>
     </details><br>
 
-2. [Time-Weighted Difference-in-Differences: Accounting for Common Factors in Short T Panels](https://papers.tinbergen.nl/23004.pdf){:target="_blank"} [WP2] *(R&R Journal of Business & Economic Statistics)*
+2. [Time-Weighted Difference-in-Differences in Short Panels with Common Shocks](./assets/docs/twdid-v2-sep25.pdf){:target="_blank"} *(R&R Journal of Business & Economic Statistics)* 
+    [<small>[previous version]</small>](https://papers.tinbergen.nl/23004.pdf){:target="_blank"}
     <details>
 	    <summary>Abstract</summary>  
        <small>
-      I propose a time-weighted difference-in-differences (TWDID) estimation approach that is robust against time-varying common factors in short T panels. Time weighting substantially reduces both bias and variance compared to an unweighted DID estimator through balancing the pre-treatment and post-treatment factors. To conduct valid inference on the average treatment effect, I develop a correction term that adjusts conventional standard errors for the presence of weight estimation uncertainty. Revisiting a study on the effect of a cap-and-trade program on NOx emissions, TWDID estimation reduces the standard errors of the estimated treatment effect by 10% compared to a conventional DID approach.  
+            This paper introduces a time-weighted difference-in-differences (TWDID) estimator for settings with few pre-treatment periods. Unlike conventional estimators, which use ﬁxed pre-treatment weights, TWDID assigns variance-minimizing weights determined by the within-group covariance matrix of outcomes. The proposed estimator is efficient in the considered class when parallel trends hold across all periods. I introduce violations of parallel trends through common factors that have heterogeneous e!ects on the outcome. I show that the weights reduce the inﬂuence of the confounding factors, yielding a smaller bias than conventional DiD estimators under mild assumptions on the factors. Revisiting the impact of a cap-and-trade program on NOx emissions, TWDID yields smaller and more precise estimates than conventional approaches. 
        </small>
     </details>
 
@@ -52,6 +53,6 @@ My current papers have applications in environmental economics, economic history
 
 ## Scheduled Talks
 
--  Encounters in Econometric Theory (May 2025)
--  University of Fribourg (May 2025)
--  Econometric Society World Congress (August 2025)
+-  Lund University (November 2025)
+-  University of Copenhagen (November 2025)
+-  EC-squared conference (December 2025)

@@ -14,6 +14,8 @@ Welcome! I am an Assistant Professor (tenure track) in econometrics at Erasmus U
 My research advances the econometric methods in the field of causal inference with panel data.
 My current papers have applications in environmental economics, economic history and public health.
 
+Master students at EUR under my supervision can schedule thesis meetings [here](https://outlook.office.com/bookwithme/user/7f6ce51643274d28a7ab716e2427b110%40eur.nl/meetingtype/cSyFQoMXcUemU54rM_AS2Q2?anonymous&ismsaljsauthenabled).
+
 ---
 
 ## Research

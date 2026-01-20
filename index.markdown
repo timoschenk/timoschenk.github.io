@@ -37,7 +37,7 @@ Master students at EUR under my supervision can schedule thesis meetings [here](
         </small>
     </details><br>
 
-2. [Time-Weighted Difference-in-Differences in Short Panels with Common Shocks](./assets/docs/twdid-v2-sep25.pdf){:target="_blank"} *(R&R Journal of Business & Economic Statistics)* 
+2. [Time-Weighted Difference-in-Differences in Short Panels with Common Shocks](./assets/docs/twdid-v2-sep25.pdf){:target="_blank"}
     [<small>[previous version]</small>](https://papers.tinbergen.nl/23004.pdf){:target="_blank"}
     <details>
 	    <summary>Abstract</summary>  
